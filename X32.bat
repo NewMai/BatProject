@@ -1,0 +1,1 @@
+start E:\ReverseEngine\x32_x64dbg\release\x32\x32dbg.exe

@@ -1,0 +1,1 @@
+start E:\ReverseEngine\PEiD0.95\PEiD0.95\PEiD.exe

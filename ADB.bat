@@ -1,0 +1,1 @@
+start R:\Èí¼ş\Android\adb\adb.exe
