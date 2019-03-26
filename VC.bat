@@ -1,0 +1,1 @@
+start E:\E_TEMP\VC6.0\Common\MSDev98\Bin\MSDEV.EXE

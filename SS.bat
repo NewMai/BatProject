@@ -1,0 +1,1 @@
+start E:\E_TEMP\Shadowsocks-4.1.5\Shadowsocks.exe
