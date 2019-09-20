@@ -1,0 +1,1 @@
+start E:\VPS\V2RayN\v2rayN-Core\v2rayN.exe
