@@ -1,1 +1,1 @@
-start E:\ReverseEngine\IDA_Pro_v6.8\IDA_Pro_v6.8\idaq64.exe
+start E:\ReverseEngine\IDA_Pro_v7.0\ida64.exe

@@ -1,0 +1,1 @@
+start E:\VPS\SSR\ssr-win\ShadowsocksR-dotnet4.0.exe
