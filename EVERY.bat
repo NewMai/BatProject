@@ -1,1 +1,1 @@
-start E:\E_TEMP\every\Everything.exe
+start E:\E_TEMP\Everything-1.4.1.969.x64\Everything.exe

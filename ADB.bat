@@ -1,1 +1,2 @@
-start R:\Èí¼ş\Android\adb\adb.exe
+start cmd
+cd /d E:\E_TEMP\adb
