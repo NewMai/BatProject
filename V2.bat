@@ -1,1 +1,1 @@
-start E:\VPS\V2RayN\2.43\v2rayN-Core\v2rayN.exe
+start E:\VPS\V2RayN\v2ray_3.29_2021_01_13\v2rayN-Core\v2rayN.exe
